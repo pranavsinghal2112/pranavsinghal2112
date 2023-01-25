@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pranavsinghal2112
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c,c++,java,python
+- 🌱 I’m currently working on app development using Flutter
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me mail pranavsinghal2112@gmail.com
 
