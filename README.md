@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @pranavsinghal2112
-- 👀 I’m interested in coding
-- 🌱 I’m currently working on app development using Flutter
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me mail pranavsinghal2112@gmail.com
+**Pranav Singhal**
 
-<!---
-pranavsinghal2112/pranavsinghal2112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* B.Tech in Computer Science and Engineering, AIML
+* App developer in cross-platform development with Flutter
+* Passionate about building user-friendly and engaging mobile apps
+* Experienced in using Git and GitHub
+* Always looking for new challenges and opportunities to learn and grow
+
+**Projects**
+
+* Developed a Flutter app for event management
+* Built a Flutter app - calculator
+
+**Skills**
+
+* Flutter
+* Dart
+* Git
+* GitHub
+* Data structures and algorithms
+
+**Contact**
+
+* Email: pranavsinghal2112@gmail.com
+* LinkedIn [linkedin.com/in/pranavsinghal](https://www.linkedin.com/in/pranav-singhal-04877924a/)
